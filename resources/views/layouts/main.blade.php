@@ -15,7 +15,7 @@
     @include('includes.header_bottom')
     <!-- MAIN -->
     <main>
-    
+    @include('includes.jumbotron')
     </main>
 </body>
 </html>
