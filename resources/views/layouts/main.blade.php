@@ -9,6 +9,13 @@
     <title>DC Comics</title>
 </head>
 <body>
-    <h1>DC COMICS</h1>
+    <!-- header-top -->
+    @include('includes.header_top')
+    <!-- header-bottom -->
+    @include('includes.header_bottom')
+    <!-- MAIN -->
+    <main>
+    
+    </main>
 </body>
 </html>
