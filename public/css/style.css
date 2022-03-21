@@ -52,3 +52,60 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.f-top {
+  min-height: 400px;
+  background-image: url("../images/footer-bg.jpg");
+  background-size: cover;
+  color: whitesmoke;
+  padding: 30px 0;
+  position: relative;
+}
+.f-top ul {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.f-top ul li {
+  padding: 5px 0;
+}
+
+.list {
+  display: flex;
+}
+
+.text-blue {
+  color: #0282F9;
+}
+
+.logo {
+  position: absolute;
+  top: 5px;
+  right: 0;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.f-bottom {
+  background-color: #303030;
+  padding: 50px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  border: 2px solid #0282F9;
+  padding: 10px 15px;
+  color: whitesmoke;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+}
+
+.m-5 {
+  margin: 0 5px;
+}

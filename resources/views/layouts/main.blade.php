@@ -17,5 +17,9 @@
     <main>
     @include('includes.jumbotron')
     </main>
+    <!-- footer-top -->
+    @include('includes.footer_top')
+    <!-- footer-bottom -->
+    @include('includes.footer_bottom')
 </body>
 </html>
