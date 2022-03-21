@@ -16,6 +16,7 @@
     <!-- MAIN -->
     <main>
     @include('includes.jumbotron')
+    @include('includes.comics')
     </main>
     <!-- footer-top -->
     @include('includes.footer_top')
